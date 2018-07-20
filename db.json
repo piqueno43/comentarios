@@ -1,0 +1,30 @@
+{
+  "series": [
+    {
+      "id": 3,
+      "name": "Breaking Bad",
+      "status": "watched",
+      "genre": "Drama",
+      "comments": "Say My Name - melhor cena"
+    },
+    {
+      "id": 4,
+      "name": "Better Call Saul",
+      "status": "toWatch",
+      "genre": "Drama",
+      "comments": "Galera fala bem"
+    },
+    {
+      "name": "",
+      "status": "watched",
+      "comments": "",
+      "genre": "Comédia",
+      "id": 9
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
